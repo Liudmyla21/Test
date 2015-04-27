@@ -23,7 +23,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="SeleniumTestProject2" />
+        <module name="testp" />
       </profile>
     </annotationProcessing>
   </component>
